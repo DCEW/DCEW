@@ -4,6 +4,8 @@ Welcome to my page 🎉
 
 I am a medical statistician/health data scientist 🎨 with a background in academia 🎓 and clinical veterinary medicine and surgery 🩺.  I am Lead Data Scientist at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/) in the [data science team](https://the-strategy-unit.github.io/data_science/), which is hosted by NHS Midlands and Lancashire.
 
+I am manager if the [NHS-R Community](https://nhsrcommunity.com/), join us!
+
 My chief interests lie in:
 - Reproducible analytical pipelines
 - Quality analysis for actionable insights in healthcare
