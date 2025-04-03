@@ -1,19 +1,19 @@
-## Dr Claire E Welsh's GitHub 
+## Dr Claire E Welsh
 
+Welcome to my page 🎉
 
-I am a medical statistician/health data scientist with a background in academia and clinical veterinary work.  I am currently Principal Disease Intelligence Analyst within the National Disease Registration Service at NHS England, where I am health inequalities lead and a Reproducible Analytical Pipelines (RAP) advocate. I am also analytical lead for the [National Cancer Quality of Life Survey](https://digital.nhs.uk/ndrs/our-work/ncras-work-programme/cancer-quality-of-life-survey), and I contribute to, and lead, a number of other analytical programmes, including national and international data exchanges, methodological explorations and others. I deliver training and produce materials to advance the use of RAP principles in NDRS and the wider NHSE, and sit on the steering group of the NHSE-R users group.
+I am a medical statistician/health data scientist 🎨 with a background in academia 🎓 and clinical veterinary medicine and surgery 🩺.  I am Lead Data Scientist at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/) in the [data science team](https://the-strategy-unit.github.io/data_science/), which is hosted by NHS Midlands and Lancashire.
 
 My chief interests lie in:
-- RAP adoption
+- Reproducible analytical pipelines
 - Quality analysis for actionable insights in healthcare
 - Health inequality reduction
 - Supporting the adoption of cutting edge analytical and technological advances for health data analysis
+- Data science methodology
 
-My publication history can be found at [ORCiD ID](https://orcid.org/0000-0001-9477-0775). 
+My publication history can be found at [ORCiD ID](https://orcid.org/0000-0001-9477-0775).
 
-I code in:
-- R
-- Python
-- SQL
+You can find me here: <a href="https://linkedin.com/in/yiwen-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiwen-h" height="30" width="40" /></a>
+
    
 
