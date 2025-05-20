@@ -14,6 +14,7 @@ My chief interests lie in:
 - Data science methodology
 
 Read my blogs: [Data science as a product](https://the-strategy-unit.github.io/data_science/blogs/posts/2025-05-16%20data-science-as-a-product/), [The importance of community in NHS data science](https://nhsrcommunity.com/blog/Community_in_data_science.html)
+
 My publication history can be found here: [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-9477-0775)
 
 You can find me here: <a href="https://linkedin.com/in/claire-welsh-307760106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claire-welsh" height="30" width="40" /></a>
