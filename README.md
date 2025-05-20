@@ -13,7 +13,7 @@ My chief interests lie in:
 - Supporting the adoption of cutting edge analytical and technological advances for health data analysis
 - Data science methodology
 
-Read my blogs: [Data science as a product](https://the-strategy-unit.github.io/data_science/blogs/posts/2025-05-16%20data-science-as-a-product/), [The importance of community in NHS data science](https://nhsrcommunity.com/blog/Community_in_data_science.html)
+Read my blogs ✍: [Data science as a product](https://the-strategy-unit.github.io/data_science/blogs/posts/2025-05-16%20data-science-as-a-product/), [The importance of community in NHS data science](https://nhsrcommunity.com/blog/Community_in_data_science.html)
 
 My publication history can be found here: [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-9477-0775)
 
