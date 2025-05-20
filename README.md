@@ -15,7 +15,7 @@ My chief interests lie in:
 
 My publication history can be found here: [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-9477-0775)
 
-You can find me here: <a href="https://linkedin.com/in/yiwen-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiwen-h" height="30" width="40" /></a>
+You can find me here: <a href="https://linkedin.com/in/claire-welsh-307760106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claire-welsh" height="30" width="40" /></a>
 
    
 
