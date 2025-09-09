@@ -13,7 +13,9 @@ My chief interests lie in:
 - Supporting the adoption of cutting edge analytical and technological advances for health data analysis
 - Data science methodology
 
-Read my blogs ✍: [Positron for Product Owners](https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fposit.co%2Fblog%2Fpositron-for-product-owners%2F&data=05%7C02%7Cclaire.welsh8%40nhs.net%7C2020f338b9454963fabf08ddefaeae4d%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638930255779047625%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7Na4SM3rvf8e1xe8TAgMBjfLMNXCfKbO0Zhc4szFOhQ%3D&reserved=0)[Data science as a product](https://the-strategy-unit.github.io/data_science/blogs/posts/2025-05-16%20data-science-as-a-product/), [The importance of community in NHS data science](https://nhsrcommunity.com/blog/Community_in_data_science.html)
+Read my blogs ✍: [Positron for Product Owners](https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fposit.co%2Fblog%2Fpositron-for-product-owners%2F&data=05%7C02%7Cclaire.welsh8%40nhs.net%7C2020f338b9454963fabf08ddefaeae4d%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638930255779047625%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7Na4SM3rvf8e1xe8TAgMBjfLMNXCfKbO0Zhc4szFOhQ%3D&reserved=0),
+[Data science as a product](https://the-strategy-unit.github.io/data_science/blogs/posts/2025-05-16%20data-science-as-a-product/), 
+[The importance of community in NHS data science](https://nhsrcommunity.com/blog/Community_in_data_science.html)
 
 My publication history can be found here: [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-9477-0775)
 
